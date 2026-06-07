@@ -56,4 +56,12 @@ TypeScript · Bun · NATS · SQLite. Open-source core, Apache 2.0.
 
 ---
 
+## Connect
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/vW8ReCtAP7)
+
+Build with us in [Discord](https://discord.gg/vW8ReCtAP7).
+
+---
+
 *Built by a small distributed team and a fleet of agents.*
