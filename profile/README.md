@@ -58,9 +58,13 @@ TypeScript · Bun · NATS · SQLite. Open-source core, Apache 2.0.
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/Website-meta--factory.ai-0A0A0A)](https://meta-factory.ai)
+[![Stack](https://img.shields.io/badge/Stack-stack.meta--factory.ai-1F6FEB)](https://stack.meta-factory.ai)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/vW8ReCtAP7)
 
-Build with us in [Discord](https://discord.gg/vW8ReCtAP7).
+- **Site:** [meta-factory.ai](https://meta-factory.ai)
+- **Protocol stack:** [stack.meta-factory.ai](https://stack.meta-factory.ai)
+- **Community:** [Discord](https://discord.gg/vW8ReCtAP7)
 
 ---
 
