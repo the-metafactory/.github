@@ -10,7 +10,7 @@ The naming is deliberate. A nervous system needs *myelin* to carry signals, a *c
 
 ## What we're building
 
-- **arc** — package management for PAI. Install, discover, and share skills, tools, agents, and prompts across the ecosystem.
+- **arc** — agentic package manager. Install, discover, and share skills, tools, agents, and prompts across the ecosystem.
 - **myelin** — the envelope protocol. A typed message format that lets agents and services speak the same language over a shared bus.
 - **soma** — portable assistant context. The source of truth that projects into Claude Code, Cursor, and other substrates.
 - **agent-state** — the state primitive. Work items, events, dashboards, and retros for persona-driven agents.
@@ -23,7 +23,7 @@ The naming is deliberate. A nervous system needs *myelin* to carry signals, a *c
 
 | Project | What it does | |
 |---------|--------------|---|
-| [arc](https://github.com/the-metafactory/arc) | Package management for PAI: skills, tools, agents, prompts | ![Stars](https://img.shields.io/github/stars/the-metafactory/arc?style=flat) |
+| [arc](https://github.com/the-metafactory/arc) | Agentic package manager: skills, tools, agents, prompts | ![Stars](https://img.shields.io/github/stars/the-metafactory/arc?style=flat) |
 | [myelin](https://github.com/the-metafactory/myelin) | Envelope protocol for the nervous system of agentic work | ![Stars](https://img.shields.io/github/stars/the-metafactory/myelin?style=flat) |
 | [soma](https://github.com/the-metafactory/soma) | Portable, substrate-agnostic assistant context | ![Stars](https://img.shields.io/github/stars/the-metafactory/soma?style=flat) |
 | [agent-state](https://github.com/the-metafactory/agent-state) | Work items, events, retros for persona-driven agents | ![Stars](https://img.shields.io/github/stars/the-metafactory/agent-state?style=flat) |
