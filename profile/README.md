@@ -29,8 +29,8 @@ The naming is deliberate. A nervous system needs *myelin* to carry signals, a *c
 | [agent-state](https://github.com/the-metafactory/agent-state) | Work items, events, retros for persona-driven agents | ![Stars](https://img.shields.io/github/stars/the-metafactory/agent-state?style=flat) |
 | [sage](https://github.com/the-metafactory/sage) | Code-review agent on pi.dev, speaking Myelin | ![Stars](https://img.shields.io/github/stars/the-metafactory/sage?style=flat) |
 | [content-filter](https://github.com/the-metafactory/content-filter) | Inbound content security for agent collaboration | ![Stars](https://img.shields.io/github/stars/the-metafactory/content-filter?style=flat) |
-| [arc-skill-code-review](https://github.com/the-metafactory/arc-skill-code-review) | Multi-lens PR review skill for Claude Code | ![Stars](https://img.shields.io/github/stars/the-metafactory/arc-skill-code-review?style=flat) |
-| [release-manager](https://github.com/the-metafactory/release-manager) | Release SOP walker: bump, tag, bundle, publish, deploy | ![Stars](https://img.shields.io/github/stars/the-metafactory/release-manager?style=flat) |
+| [metafactory-skill-code-review](https://github.com/the-metafactory/metafactory-skill-code-review) | Multi-lens PR review skill for Claude Code | ![Stars](https://img.shields.io/github/stars/the-metafactory/metafactory-skill-code-review?style=flat) |
+| [metafactory-skill-release-manager](https://github.com/the-metafactory/metafactory-skill-release-manager) | Release SOP walker: bump, tag, bundle, publish, deploy | ![Stars](https://img.shields.io/github/stars/the-metafactory/metafactory-skill-release-manager?style=flat) |
 | [metafactory-actions](https://github.com/the-metafactory/metafactory-actions) | Shared CI actions and flows for the ecosystem | ![Stars](https://img.shields.io/github/stars/the-metafactory/metafactory-actions?style=flat) |
 | [agents](https://github.com/the-metafactory/agents) | Agent manifests and migration guidance | ![Stars](https://img.shields.io/github/stars/the-metafactory/agents?style=flat) |
 
